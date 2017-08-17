@@ -184,20 +184,8 @@ h2.section-heading {
     font-size: 22px;
    font-weight: bold;
     color: #000;
+	 text-align:left;
   }
-.content-section-a p a {
-  color: silver;
-  font-weight: bold;
-}
-/*profile picture*/
-.img-circle {
-  margin-top: 150px;
-  border: 1px outset rgba(255, 255, 255, 0.3);
-  box-shadow: 1px 1px 1px rgba(0,0,0,0.6);
-  
-}
-
-
 /* Portfolio section*/
 section {
   color: black;
@@ -305,21 +293,7 @@ section {
   }
 }
 
-/*.col-md-4 {
-  overflow: hidden;
-  display: inline-block;
-  border: 1px outset rgba(255, 255, 255, 0.6);
-  background: rgba(0, 0, 0, 0.6);
-  border-radius: 1%;
-  text-align: center;
-  box-shadow: 2px 3px 2px rgba(0,0,0,0.3);
-  text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
-  cursor: pointer;
-}
-.col-md-4:hover {
-  transition: 0.5s;
-  box-shadow: 5px 10px 5px rgba(0,0,0,0.9);  
-}*/
+
 
 .section-heading-spacer {
     float: left;
@@ -374,11 +348,3 @@ h2.connect {
    color: rgba(0, 0, 0, 0.9);
 }
 
-footer {
-    padding: 50px 0;
-    background: rgba(192, 192, 192, 0.9);
-}
-
-p.copyright {
-    margin: 15px 0 0;
-}
